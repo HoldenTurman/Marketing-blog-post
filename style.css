@@ -354,10 +354,16 @@ section {
   display: block;
   text-align: center;
   margin: 0 150px;
-  margin-top: 50px;
 }
 
 .blog-heading {
+  text-decoration: underline;
+  justify-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.blog-heading2 {
   text-decoration: underline;
   justify-items: center;
   justify-content: center;
