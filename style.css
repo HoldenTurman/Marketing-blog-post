@@ -350,6 +350,12 @@ section {
   margin: 0 150px;
 }
 
+.blog2 {
+  display: block;
+  text-align: center;
+  margin: 0 150px;
+}
+
 .blog-heading {
   text-decoration: underline;
   justify-items: center;
